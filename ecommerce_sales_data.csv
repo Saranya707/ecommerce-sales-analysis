@@ -1,0 +1,16 @@
+Order_ID,Date,Product,Category,Quantity,Price,Region,Sales,Month
+1001,2026-01-05,Laptop,Electronics,1,55000,South,55000,January
+1002,2026-01-12,Headphones,Electronics,2,2500,North,5000,January
+1003,2026-01-20,T-Shirt,Fashion,3,800,South,2400,January
+1004,2026-02-03,Smartphone,Electronics,1,30000,West,30000,February
+1005,2026-02-15,Shoes,Fashion,2,3000,East,6000,February
+1006,2026-02-24,Keyboard,Electronics,2,1500,South,3000,February
+1007,2026-03-02,Laptop,Electronics,1,55000,North,55000,March
+1008,2026-03-10,Jeans,Fashion,2,2000,West,4000,March
+1009,2026-03-18,Smartwatch,Electronics,1,8000,South,8000,March
+1010,2026-04-05,Headphones,Electronics,3,2500,East,7500,April
+1011,2026-04-12,Shoes,Fashion,1,3000,South,3000,April
+1012,2026-04-20,Smartphone,Electronics,1,30000,North,30000,April
+1013,2026-05-03,T-Shirt,Fashion,4,800,West,3200,May
+1014,2026-05-15,Keyboard,Electronics,2,1500,East,3000,May
+1015,2026-05-25,Smartwatch,Electronics,2,8000,South,16000,May
